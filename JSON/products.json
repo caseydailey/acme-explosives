@@ -1,0 +1,121 @@
+{
+    "products": [ 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        }, 
+        {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age.",
+            "image": "images/sparkler.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        },   {
+            "id": 1,
+            "type": 1,
+            "name": "Dynamite",
+            "description": "Blows. Shit. Up.",
+            "image": "images/dynamite.png"
+        }
+    ]
+}
