@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use."
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use."
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Boom",
+            "description": "crazy dangerous. do not fuck around."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Boom",
+            "description": "crazy dangerous. do not fuck around."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "Boom",
+            "description": "crazy dangerous. do not fuck around."
+        }
+    ]
+}

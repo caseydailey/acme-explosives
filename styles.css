@@ -1,0 +1,11 @@
+
+
+.jumbotron {
+ background-image: url("images/better-fireworks-header.jpg");
+ color: white;
+}
+
+.navbar-collapse.in {
+ overflow-y: visible;
+ max-height: 100%;
+}
